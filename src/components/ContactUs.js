@@ -15,7 +15,7 @@ export default class ContactUs extends Component {
   
     axios({
       method: "POST", 
-      url:"http://localhost:3002/send", 
+      url:"http://main.d192pf6v4qf9oa.amplifyapp.com:3002/send", 
       data:  this.state
     }).then((response)=>{
       if (response.data.status === 'success') {
