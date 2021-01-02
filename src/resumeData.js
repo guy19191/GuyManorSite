@@ -143,7 +143,7 @@ let resumeData = {
       {
         "name":"Instegram Megic",
         "description":"Megic trick that use nodejs & puppeteer send you your number in a massage ",  
-        "imgurl":"images/portfolio/project3.JPEG",
+        "imgurl":"images/portfolio/project3.png",
         "link":"#"
       },
       {
