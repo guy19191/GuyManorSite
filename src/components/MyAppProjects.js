@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-export default class Porfolio extends Component {
+export default class MyAppProjects extends Component {
   render() {
     let resumeData = this.props.resumeData;
     return (
-      <section id="portfolio">
+      <section id="myappprojects">
       <div className="row">
         <div className="twelve columns collapsed">
           <h1>Some of my projects</h1>
