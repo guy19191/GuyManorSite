@@ -101,6 +101,64 @@ let resumeData = {
       "Achievements" : "Combat warrior in a special unit operating long range anti-tankunit Tammuz missiles called Meitar.",
     }
     ],
+    "other":[
+      {
+        "CompanyName":"Surprise Lake Camp",
+        "specialization":"General Counselor ",
+        "MonthOfLeaving":"2015",
+        "YearOfLeaving":"",
+        "Achievements":" Guiding 12 kids at the ages of 8-10, Children with disabilities"
+      },
+      {
+        "CompanyName":"Leadership Institute - Mechinat Galil Elyon",
+        "specialization":"Gap Year",
+        "MonthOfLeaving":"2014 - ",
+        "YearOfLeaving":"2015",
+        "Achievements":"Volunteering with children in need and learning about leadership "
+      },
+      {
+        "CompanyName":"Ferret Farm",
+        "specialization":"Volunteer",
+        "MonthOfLeaving":"2010",
+        "YearOfLeaving":" - 2014",
+        "Achievements":"Volunteering with disabilities children in the Ferret Farm"
+      },
+      {
+        "CompanyName":"Producer",
+        "specialization":"EDM, Pop & Chill",
+        "MonthOfLeaving":"2010",
+        "YearOfLeaving":" - Now",
+        "Achievements":"Proudcing Music For records labels and singers"
+      },
+      {
+        "CompanyName":"DJ",
+        "specialization":"EDM",
+        "MonthOfLeaving":"2010",
+        "YearOfLeaving":" - 2014",
+        "Achievements":"DJ in parties of 1000 pepople every week"
+      },
+      {
+        "CompanyName":"Ferret Farm",
+        "specialization":"Volunteer",
+        "MonthOfLeaving":"2010",
+        "YearOfLeaving":" - 2014",
+        "Achievements":"Volunteering with disabilities children in the Ferret Farm"
+      },
+      {
+        "CompanyName":"Moshav Movement",
+        "specialization":"Junior guide",
+        "MonthOfLeaving":"2010",
+        "YearOfLeaving":" - 2013",
+      },
+      {
+        "CompanyName":"Maccabi Kadima Zoran",
+        "specialization":"Goalkeeper",
+        "MonthOfLeaving":"2004",
+        "YearOfLeaving":" - 2010",
+      },
+      
+    
+    ],
     "skillsDescription":"",
     "skills":[
       {
@@ -110,7 +168,7 @@ let resumeData = {
         "skillname":"JS, Node.JS, ReactJS"
       },
       {
-        "skillname":"HTML, CSS, WordPress"
+        "skillname":"HTML5, CSS, Wordpress"
       },
       
       {
@@ -127,7 +185,7 @@ let resumeData = {
         "skillname":"Git, Jenkins, TFS, Jira"
       }
     ],
-    "portfolio":[
+    "mymusicprojetcs":[
       {
         "name":"nivarbiv.com",
         "description":"Ecommerce Wordpress sebsite to a upcoming artist named Niv Arbiv",
@@ -139,12 +197,6 @@ let resumeData = {
         "description":"Ecommerce html/css project to a roundnet salling bussines",
         "link":"http://roundnet-israel.com",
         "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"Instegram Megic",
-        "description":"Megic trick that use nodejs & puppeteer send you your number in a massage ",  
-        "imgurl":"images/portfolio/project3.png",
-        "link":"/#resume"
       },
       {
         "name":"Guymanor.com",
@@ -171,6 +223,61 @@ let resumeData = {
         "description":"ReactJs Website of my projects",
         "imgurl":"images/portfolio/project4.png",
         "link":"#"
+      }
+    ],
+    "mywebsiteprojects":[
+      {
+        "name":"nivarbiv.com",
+        "description":"Ecommerce Wordpress sebsite to a upcoming artist named Niv Arbiv",
+        "link":"http://Nivarbiv.com",
+        "imgurl":"images/portfolio/project.png"
+      },
+      {
+        "name":"Rondnet-israel.com",
+        "description":"Ecommerce html/css project to a roundnet salling bussines",
+        "link":"http://roundnet-israel.com",
+        "imgurl":"images/portfolio/project2.png"
+      },
+      {
+        "name":"Guymanor.com",
+        "description":"ReactJs Website of my projects",
+        "imgurl":"images/portfolio/project4.png",
+        "link":"#"
+      }
+    ],
+    "myappprojects":[
+      {
+        "name":"nivardddbiv.com",
+        "description":"Ecommerce Wordpress sebsite to a upcoming artist named Niv Arbiv",
+        "link":"http://Nivarbiv.com",
+        "imgurl":"images/portfolio/project.png"
+      },
+      {
+        "name":"Instegram Megic",
+        "description":"Megic trick that use nodejs & puppeteer send you your number in a massage ",  
+        "imgurl":"images/portfolio/project3.png",
+        "link":"/#resume"
+      },
+      {
+        "name":"Guymanor.com",
+        "description":"ReactJs Website of my projects",
+        "imgurl":"images/portfolio/project4.png",
+        "link":"#"
+      }
+    ],
+    "myautomationprojects":[
+
+      {
+        "name":"Instegram Megic Trick",
+        "description":"Megic trick that use nodejs & puppeteer send you your number in a massage ",  
+        "imgurl":"images/portfolio/project3.png",
+        "link":"/#resume"
+      },
+      {
+        "name":"Lowest Amazone Price",
+        "description":"Using sulinum and vpn api i was able to find the lowest price of any proudact by searching it in every contory and compring them",  
+        "imgurl":"images/portfolio/project5.png",
+        "link":"/#resume"
       }
     ],
     

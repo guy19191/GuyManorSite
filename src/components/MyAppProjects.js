@@ -6,15 +6,15 @@ export default class MyAppProjects extends Component {
       <section id="myappprojects">
       <div className="row">
         <div className="twelve columns collapsed">
-          <h1>Some of my projects</h1>
+          <h1>My Application Projects</h1>
           <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
           {
-            resumeData.portfolio && resumeData.portfolio.map((item)=>{
+            resumeData.myappprojects && resumeData.myappprojects.map((item)=>{
               return(
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
+                  <a href={item.link}>
                       <img src={`${item.imgurl}`} className="item-img"/>
-                       <a href={item.link}>
                       <div className="overlay">
                         <div className="portfolio-item-meta">
                           <h5>{item.name}</h5>
