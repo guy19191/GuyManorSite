@@ -7,19 +7,19 @@ let resumeData = {
     "roleDescription": "",
     "socialLinks":[
         {
-          "name":"linkedin",
+          "name":"Linkedin",
           "url":"https://www.linkedin.com/in/guy-manor-6391231ab/",
           "className":"fa fa-linkedin"
         },
         {
-          "name":"github",
+          "name":"Github",
           "url":"https://github.com/guy19191",
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
-          "url":"skype Id",
-          "className":"fa fa-twitter"
+          "name":"Instagram",
+          "url":"https://www.instagram.com/guy_manor8/",
+          "className":"fa fa-instagram"
         }
       ],
     "aboutme":"I have experience in managing projects and managing people. I’m a hard worker and I’m commits 100% to my projects and place of work.",
