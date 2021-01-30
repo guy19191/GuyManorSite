@@ -14,7 +14,7 @@ export default class Header extends Component {
                <li><a className="smoothscroll" href="#about">About</a></li>
                <li><a className="smoothscroll" href="#mywebsiteprojects">My Website Projects</a></li>
                <li><a className="smoothscroll" href="#myautomationprojects">My Automation Projects</a></li>
-               <li><a className="smoothscroll" href="#myappprojects">My App Projects</a></li>
+               {/*<li><a className="smoothscroll" href="#myappprojects">My App Projects</a></li>*/}
                <li><a className="smoothscroll" href="#mymusicprojects">My Music</a></li>
                <li><a className="smoothscroll" href="#resume">Resume</a></li>
                <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
