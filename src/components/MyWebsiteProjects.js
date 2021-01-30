@@ -19,6 +19,7 @@ export default class MyAppProjects extends Component {
                         <div className="portfolio-item-meta">
                           <h5>{item.name}</h5>
                           <p>{item.description}</p>
+                          <h5>Click Here to go to the Website</h5>
                         </div>
                       </div>
                     </a>

@@ -30,7 +30,7 @@ let resumeData = {
         "UniversityName":"Udemy Courses",
         "specialization":"Computer science courses",
         "YearOfPassing":"2020",
-        "Achievements":"NodeJs, MongpDB, Docker Manager"
+        "Achievements":"NodeJs, MongpDB,Kubernetes Docker Manager"
       },
       {
         "UniversityName":"High School",
@@ -59,7 +59,7 @@ let resumeData = {
         "specialization":"QA Automation Engineer",
         "MonthOfLeaving":"Sep",
         "YearOfLeaving":"2020 - Now",
-        "Achievements":"specialize in Data Distribution testing and Server testing"
+        "Achievements":"Specialize in Data Distribution Teasing, GIS Testing and Server Testing"
       },
       {
         "CompanyName":"Spikeball inc.",
@@ -73,32 +73,32 @@ let resumeData = {
         "specialization":"Operations Officer - Division 7",
         "MonthOfLeaving":"Jun",
         "YearOfLeaving":"2019 - Apr 2020",
-        "Achievements":"Managing projects of operations, directing artillery, special missiles and air support onto enemy targets for a tank division. Also managing a software project for the entire army, tracking observation ability of all soldiers across the country"
+        "Achievements":"Managing operations projects, directing: artillery, Special missiles and Air support onto enemy targets for a tank division. Also managing a software project for the entire army, tracking observation ability of all soldiers across the country"
       },
       {
       
         "specialization":"Forward Observation Officer - Egoz Unit",
         "MonthOfLeaving":"Nov",
         "YearOfLeaving":"2018 - Jun 2019",
-        "Achievements":"Managing projects of special operations, directing artillery, special missiles and air support onto enemy targets for Egoz unit"
+        "Achievements":"Managing special operations projects, directing: artillery, special missiles and air support onto enemy targets for Egoz unit"
       },
       {
       "specialization":"Platoon Commender",
       "MonthOfLeaving":"Sep",
       "YearOfLeaving":"2017 - Nov 2018",
-      "Achievements" : "Managing 47 soldiers and commenders as a Platoon commender in basic training."
+      "Achievements" : "Managing 47 soldiers as a Platoon Commender in basic training."
     },
     {
       "specialization":"Sergeant Commander",
       "MonthOfLeaving":"Dec",
       "YearOfLeaving":"2016 - Sep 2017",
-      "Achievements" : " Sergeant of the patrol company in Meitar unit Managing 14 soldiers."
+      "Achievements" : "Patrol Company Sergeant in Meitar unit, Managing 14 soldiers."
     },
     {
       "specialization":"Special Forces Combat",
       "MonthOfLeaving":"Nov",
       "YearOfLeaving":"2015 - Dec 2016",
-      "Achievements" : "Combat warrior in a special unit operating long range anti-tankunit Tammuz missiles called Meitar.",
+      "Achievements" : "Combat warrior in a special unit called meitar, Operating long range anti-tankunit Tammuz missiles.",
     }
     ],
     "other":[
@@ -208,7 +208,7 @@ let resumeData = {
     "myappprojects":[
       {
         "name":"nivardddbiv.com",
-        "description":"Ecommerce Wordpress sebsite to a upcoming artist named Niv Arbiv",
+        "description":'Ecommerce Wordpress website for the upcoming artist "Niv Arbiv"',
         "link":"http://Nivarbiv.com",
         "imgurl":"images/portfolio/project.png"
       },
@@ -228,7 +228,7 @@ let resumeData = {
     "mywebsiteprojects":[
       {
         "name":"nivarbiv.com",
-        "description":"Ecommerce Wordpress sebsite to a upcoming artist named Niv Arbiv",
+        "description":'Ecommerce Wordpress website for the upcoming artist "Niv Arbiv"',
         "link":"http://Nivarbiv.com",
         "imgurl":"images/portfolio/project.png"
       },
@@ -248,7 +248,7 @@ let resumeData = {
     "myappprojects":[
       {
         "name":"nivardddbiv.com",
-        "description":"Ecommerce Wordpress sebsite to a upcoming artist named Niv Arbiv",
+        "description":'Ecommerce Wordpress website for the upcoming artist "Niv Arbiv"',
         "link":"http://Nivarbiv.com",
         "imgurl":"images/portfolio/project.png"
       },
@@ -271,13 +271,13 @@ let resumeData = {
         "name":"Instegram Megic Trick",
         "description":"Megic trick that use nodejs & puppeteer send you your number in a massage ",  
         "imgurl":"images/portfolio/project3.png",
-        "link":"/#resume"
+        "link":"https://github.com/guy19191/Instagram-MagicTrick"
       },
       {
         "name":"Lowest Amazone Price",
         "description":"Using sulinum and vpn api i was able to find the lowest price of any proudact by searching it in every contory and compring them",  
         "imgurl":"images/portfolio/project5.png",
-        "link":"/#resume"
+        "link":"https://github.com/guy19191/Amazone-GetLowerPrice-ByContry"
       }
     ],
     

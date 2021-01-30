@@ -19,6 +19,8 @@ export default class MyAppProjects extends Component {
                         <div className="portfolio-item-meta">
                           <h5>{item.name}</h5>
                           <p>{item.description}</p>
+                          <h5>Click Here for the Project source and Demo Video</h5>
+                          <img src={`${item.imgurl2}`} className="item-img"/>
                         </div>
                       </div>
                     </a>
